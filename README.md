@@ -2,7 +2,7 @@
 
 ## Project Links
 
-[Live Site](https://glacial-scrubland-84963.herokuapp.com/)
+[Live Site](https://glacial-scrubland-84963.herokuapp.com/)  
 [GitHub Repository](https://github.com/svivoli/StudioBobo)
 
 ## Description
