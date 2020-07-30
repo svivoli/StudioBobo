@@ -1,6 +1,13 @@
 # Studio Bobo
 
+## Project Links
+
+[Live Site](https://glacial-scrubland-84963.herokuapp.com/)
+[GitHub Repository](https://github.com/svivoli/StudioBobo)
+
 ## Description
+
+Copy of Studio-By-Bobo repository created to resolve issues deploying to Heroku - see https://github.com/svivoli/Studio-By-Bobo for full commit history of this project.
 
 Website built for Britt Bobo as a portfolio space to showcase her artistic identity and provide a space for inquiries for commissions. Future development will incorporate the ability to purchase pieces directly from the site.
 
