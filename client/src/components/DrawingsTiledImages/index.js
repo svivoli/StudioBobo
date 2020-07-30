@@ -119,7 +119,7 @@ class Div2 extends React.Component {
     }
 
     handleMouseEnter = () => {
-        this.setState({ color: 'black' });
+        this.setState({ color: 'white' });
         this.setState({ background: 'rgba(80, 80, 80, 0.5)' });
         console.log(this.state.color);
     }
